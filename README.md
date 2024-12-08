@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="![image](https://github.com/arunjadaun2002/arunjadaun2002/blob/main/CODING%20GIF.gif?raw=true)
 ">
 
-- 🔭 I’m currently Perusing BTECH CSE **LOVELY PROFESSIONAL UNIVERSITY**
+- 🔭 I’m currently Perusing BTECH CSE ** FROM LOVELY PROFESSIONAL UNIVERSITY**
 
 - 🌱 I’m currently learning **AWS AND DEVELOPMENT**
 
