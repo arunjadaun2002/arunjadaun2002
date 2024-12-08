@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arun Jadaun</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/8dab29c4-9656-4328-b036-be2965b4bfaf)
+<img align="right" alt="coding" width="400" src="![image](https://github.com/arunjadaun2002/arunjadaun2002/blob/main/CODING%20GIF.gif?raw=true)
 ">
 
 - 🔭 I’m currently Perusing BTECH CSE **LOVELY PROFESSIONAL UNIVERSITY**
