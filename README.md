@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://github.com/arunjadaun2002/arunjadaun2002/blob/37f4f34c388119ac056bd9929722e1dc24cf8f84/CODING%20GIF.gif?raw=true">
 
 
-- 🔭 I’m currently Perusing Bachelor of Technology(Btech) Computer Science Engineering (Cse) FROM LOVELY PROFESSIONAL UNIVERSITY**
+- 🔭 I’m currently Perusing Bachelor of Technology(Btech)   Computer Science Engineering (Cse) FROM LOVELY PROFESSIONAL UNIVERSITY**
 
 - 🌱 I’m currently learning **AWS AND DEVELOPMENT**
 
